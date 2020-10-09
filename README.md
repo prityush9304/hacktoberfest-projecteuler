@@ -9,8 +9,8 @@ This repo contains solutions for projecteuler problems. Specially created for ne
 # Kind request to everyone that before sending any pull request test your solutions on <a href="https://projecteuler.net">projecteuler.net</a>.<br>
 
 ## List of Problems
-- Problem #1 [Multiples of 3 and 5](https://projecteuler.net/problem=1)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-1)
-- Problem #2 [Even Fibonacci numbers](https://projecteuler.net/problem=2)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-2)
+- Problem #1 [Multiples of 3 and 5](https://projecteuler.net/problem=1)   klmlknlk||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-1)
+- Problem #2 [Even Fibonacci numbers](https://projecteuler.net/problem=2)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-2)kjbk
 - Problem #3 [Largest prime factor](https://projecteuler.net/problem=3)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-3)
 - Problem #4 [Largest palindrome product](https://projecteuler.net/problem=4)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-4)
 - Problem #5 [Smallest multiple](https://projecteuler.net/problem=5)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-5)
